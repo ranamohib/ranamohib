@@ -1,6 +1,6 @@
 <h3 align="center">A passionate Frontend developer from Pakistan</h3>
 
-Hi! I'm Mohib a Front End Engineer with strong fundamentals in Front End technologies, specializing in React and Firebase. Likes building scalable web infrastructure and making websites fast. Passionate about programming languages, compilers, and developer tooling. Interned at PTCL, the largest telecommunications provider in Pakistan
+Hi! I'm Mohib a Front End Engineer with strong fundamentals in Front End technologies, specializing in React and Firebase. I Like building scalable web infrastructure and making websites fast. Passionate about programming languages, compilers, and developer tooling.
 
 - 🌱 I’m currently learning **Backend Development with Node.js and Express**
 
